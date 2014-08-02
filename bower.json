@@ -1,0 +1,20 @@
+{
+  "name": "ember",
+  "version": "0.0.0",
+  "authors": [
+    "Youssef Kababe <youssef.kbe@gmail.com>"
+  ],
+  "description": "test app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.6.1",
+    "ember-data": "~1.0.0"
+  }
+}
