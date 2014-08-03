@@ -15,6 +15,7 @@
   ],
   "dependencies": {
     "ember": "~1.6.1",
-    "ember-data": "~1.0.0"
+    "ember-data": "~1.0.0",
+    "ember-localstorage-adapter": "~0.3.2"
   }
 }
